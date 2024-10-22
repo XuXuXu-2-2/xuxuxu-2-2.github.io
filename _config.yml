@@ -14,7 +14,7 @@ roles:
   - key: faculty
     name: 我 me
   - key: grad
-    name: 我的小伙伴 my student
+    name: 我的小伙伴 my friends
   - key: ugrad
     name: 阿吧阿吧
   - key: collab
