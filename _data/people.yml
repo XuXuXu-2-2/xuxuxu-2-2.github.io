@@ -5,7 +5,7 @@ profx:
     display_name: "肖航  Hang Xiao"
     github: xiaohang007
     role: faculty
-    image: /img/people/yixuan.jpg
+    image: /img/people/b/yixuan.jpg
     bio: 助理教授  Assistant Professor
     webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
@@ -29,12 +29,12 @@ wolverine:
 bizhu:
     display_name: "张碧竹 Bizhu Zhang"
     role: grad
-    image: /img/people/zhixuan.jpg
+    image: /img/people/b/zhixuan.jpg
 
 kedeng:
     display_name: "吴克登 Kedeng Wu"
     role: grad
-    image: /img/people/luqihong.jpg
+    image: /img/people/b/luqihong.jpg
 
 storm:
     display_name: "虚位以待  We need you!"
