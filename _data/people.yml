@@ -2,11 +2,11 @@
 
 
 profx:
-    display_name: "肖航  Hang Xiao"
+    display_name: "许逸轩  xu yixuan"
     github: xiaohang007
     role: faculty
     image: /img/people/b/yixuan.jpg
-    bio: 助理教授  Assistant Professor
+    bio: 学生  student
     webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
 scott:
@@ -27,12 +27,12 @@ wolverine:
 
     
 bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+    display_name: "郑之铉 zhixuan Zheng"
     role: grad
     image: /img/people/b/zhixuan.jpg
 
 kedeng:
-    display_name: "吴克登 Kedeng Wu"
+    display_name: "陆琪鸿 qihong Lu"
     role: grad
     image: /img/people/b/luqihong.jpg
 
