@@ -2,7 +2,7 @@
 
 
 profx:
-    display_name: "许逸轩  xu yixuan"
+    display_name: "许逸轩  yixuan xu"
     github: xiaohang007
     role: faculty
     image: /img/people/b/yixuan.jpg
@@ -27,12 +27,12 @@ wolverine:
 
     
 bizhu:
-    display_name: "郑之铉 zhixuan Zheng"
+    display_name: "郑之铉 zhixuan zheng"
     role: grad
     image: /img/people/b/zhixuan.jpg
 
 kedeng:
-    display_name: "陆琪鸿 qihong Lu"
+    display_name: "陆琪鸿 qihong lu"
     role: grad
     image: /img/people/b/luqihong.jpg
 
@@ -50,37 +50,37 @@ alum-a:
 
 
 chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
+    display_name: " professor xiao "
     role: collab
 
 
 xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
+    display_name: " professor zhi "
     role: collab
 
 xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
+    display_name: " professor ke "
     role: collab
     
 liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
+    display_name: " professor lv "
     role: collab
 
 chenyan:
-    display_name: "陈炎 Yan Chen"
+    display_name: " professor wong "
     role: collab
     
-juzheng:
-    display_name: "宋居正 Juzheng Song"
-    role: collab
+#juzheng:
+#    display_name: "宋居正 Juzheng Song"
+#    role: collab
 
-yayun:
-    display_name: "张亚运 Yayun Zhang"
-    role: collab
+#yayun:
+#    display_name: "张亚运 Yayun Zhang"
+#    role: collab
 
-dianxing:
-    display_name: "居佃兴 Dianxing Ju"
-    role: collab
+#dianxing:
+#    display_name: "居佃兴 Dianxing Ju"
+#    role: collab
     
 
 
