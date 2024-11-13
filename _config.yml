@@ -12,13 +12,13 @@ encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: 我 me
+    name: 
   - key: grad
-    name: 我的小伙伴 my friends
+    name: 
   - key: ugrad
     name: 阿吧阿吧
   - key: collab
-    name: 我的老师们 my teachers
+    name: 已经加入的用户
 
 
 # Number of news stories on the front page.
