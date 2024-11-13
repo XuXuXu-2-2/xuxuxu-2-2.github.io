@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 产品介绍页 product introduce
+  - title: 产品介绍页 
     link: /research.html
-  - title: 用户反馈页 user feedback
+  - title: 用户反馈页 
     link: /publications.html
