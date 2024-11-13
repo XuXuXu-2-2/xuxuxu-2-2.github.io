@@ -2,11 +2,11 @@
 
 
 profx:
-    display_name: "许逸轩  yixuan xu"
+    display_name: "xyx"
     github: xiaohang007
     role: faculty
     image: /img/people/b/yixuan.jpg
-    bio: 学生  student
+    bio: 这个产品真是太好啦，完美满足了我的需求
     webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
 scott:
@@ -27,13 +27,15 @@ wolverine:
 
     
 bizhu:
-    display_name: "郑之铉 zhixuan zheng"
+    display_name: "zzx"
     role: grad
+    bio: 买来是想检测身体情况，很准确家里老人很喜欢
     image: /img/people/b/zhixuan.jpg
 
 kedeng:
-    display_name: "陆琪鸿 qihong lu"
+    display_name: "lqh"
     role: grad
+    bio: 家里有病人需要使用，真的做到了疾病预防很有用！
     image: /img/people/b/luqihong.jpg
 
 storm:
