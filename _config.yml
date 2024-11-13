@@ -1,4 +1,4 @@
-name: 逸轩的GitHub  the github website of yixuan
+name: 中医手环官网  the website of TCM bracelet
 url: https://xiaohang007.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 课堂学习成果 Research
+  - title: 产品介绍页 product introduce
     link: /research.html
-  - title: 老师的论文 Publications
+  - title: 用户反馈页 user feedback
     link: /publications.html
